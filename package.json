@@ -1,0 +1,28 @@
+{
+  "name": "todo-research-project-backend-",
+  "version": "1.0.0",
+  "description": "It's a todo app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dey24/Todo-research-project-backend-.git"
+  },
+  "author": "Chiranjit Dey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dey24/Todo-research-project-backend-/issues"
+  },
+  "homepage": "https://github.com/dey24/Todo-research-project-backend-#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-layout": "^0.1.0",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7",
+    "router": "^1.3.5"
+  }
+}
